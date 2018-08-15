@@ -1,2 +1,2 @@
-# Power BI charts and reports
+# Power BI dashboards, charts and reports
   Portifolio 
